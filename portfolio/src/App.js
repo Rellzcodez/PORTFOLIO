@@ -1,6 +1,8 @@
 
 import About from './About';
 import './App.css';
+import Blog from './Blog';
+import Contact from './Contact';
 /*import Body from './components/Body'; */
 /*import Open from './components/Open'; */
 import Home from './Home';
@@ -15,6 +17,8 @@ function App() {
      <About />
      <Service />
      <Project />
+     <Blog />
+     <Contact />
    {/* <Open /> */}
    {/* <Body /> */}
    
