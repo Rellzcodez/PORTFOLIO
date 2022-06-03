@@ -29,7 +29,7 @@ img.project__img::after{
     opacity: .3;
     display: none;
 }
-.project__box:hover ,.mask__effect{
+.project__box:hover .mask__effect{
     display: inline;
     transform: scale(1.1);
 }

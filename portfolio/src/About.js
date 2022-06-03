@@ -15,7 +15,7 @@ function About() {
             <img src={aboutimg} alt="" className="about__img" />
           </div>
           <div className="col__2">
-            <h1 className="about__heading">About Me</h1>
+            <h1 className="about__heading ">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
                 I'm a Front-end Developer who's passionate about solving
@@ -45,7 +45,7 @@ function About() {
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="#">
-                  <button className="about btn pointer"> Download Cv</button>
+                  <button className="about btn pointer">Download Cv</button>
                 </a>
                 <a href="#">
                   <button className="about btn pointer"> Hire Me</button>
