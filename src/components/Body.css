@@ -1,0 +1,27 @@
+.container{
+   position: relative;
+   width: 1200px;
+   height: 700px;
+   margin: 240px auto;
+}
+.container .box{
+    position: relative;
+    width: calc(800px-30px);
+    height: calc(400px-30px);
+    background: lightgrey;
+    float: left;
+    text-align: center;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.container .box .content{
+    top: 100%;
+    height: calc(100%-100px);
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    
+}
