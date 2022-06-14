@@ -139,12 +139,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Mobile App Development</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                I build mobile application or software applications that run
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as i lie
+                    on a mobile device using the
                 </p>
-                <p className="p service__text p__color">close to the earth</p>
+                <p className="p service__text p__color">lastest framework.</p>
               </div>
             </div>
           </div>
@@ -173,12 +173,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Marketing & Reporting</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  I help with the market condition of your service in terms of
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as i lie
+                 its price, demand, supply and 
                 </p>
-                <p className="p service__text p__color">close to the earth</p>
+                <p className="p service__text p__color">volume of transactions.</p>
               </div>
             </div>
           </div>
@@ -206,12 +206,12 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">E-Commerce Websites</h1>
                 <p className="p service__text p__color">
-                  I throw myself down among the
+                  I help bulid a website, that allows people to buy and sell physical  
                 </p>
                 <p className="p service__text p__color">
-                  tall grass by the stream as i lie
+                goods, services, and 
                 </p>
-                <p className="p service__text p__color">close to the earth</p>
+                <p className="p service__text p__color"> digital products over the internet</p>
               </div>
             </div>
           </div>

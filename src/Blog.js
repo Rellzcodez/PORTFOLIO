@@ -10,11 +10,11 @@ function Blog() {
         <h1 className="heading"> Lastest News </h1>
         <p className="heading p__color">
           {" "}
-          There are many variation of packages available,
+          Here, you can get yourself updated,
         </p>
         <p className="heading p__color">
           {" "}
-          but the majority have suffered alteration
+          about things happening on social media.
         </p>
       </div>
       <div className="container">
