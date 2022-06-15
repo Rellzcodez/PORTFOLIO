@@ -77,7 +77,7 @@ function Blog() {
                   {" "}
                   Getting updated about things happening
                 </h4>
-                <a href="www.linkedin.com/in/odunayo-adeyemi-96066b224" className="blog project__btn btn">
+                <a href="https://www.linkedin.com/in/odunayo-adeyemi-96066b224/" className="blog project__btn btn">
                   {" "}
                   Read More
                 </a>
