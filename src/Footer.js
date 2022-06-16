@@ -1,5 +1,5 @@
 import React from 'react'
-import footerimg from './Images/logo3.png'
+import footerimg from './Images/odun logo.png'
 function Footer() {
   return (
     <div className='footer d__flex align__items__center justify__content__space__between pz-10' style={{'padding':'10px 20px','zIndex': '100'}}>
