@@ -34,7 +34,7 @@ function About() {
                 right resources.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://1drv.ms/w/s!BO2CI7z6Jq3ggh4bk_ieouIbZv8m?e=q85nRP">
+                <a href="https://1drv.ms/w/s!Au2CI7z6Jq3ggiD5aSuYKpzWvd7x?e=kxATto" target='_blank' rel="noreferrer   " >
                   <button className="about btn pointer">Download Cv</button>
                 </a>
                 <a href="http://wa.me/+2348056356121">

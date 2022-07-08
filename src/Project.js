@@ -32,7 +32,7 @@ function Project() {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Artic Travel</h5>
                             <h4 className="project__text"> A Travel Agency Website</h4>
-                            <a href="https://artic-travel-agency.netlify.app/" className="project__btn"> View Details</a>
+                            <a href="https://artic-travel-agency.netlify.app/" className="project__btn" target='_blank' rel='noreferrer'> View Details</a>
 
                         </div>
 
@@ -53,7 +53,7 @@ function Project() {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Bestbite</h5>
                             <h4 className="project__text"> A Restaurant Website</h4>
-                            <a href="https://bestbitee.netlify.app/" className="project__btn"> View Details</a>
+                            <a href="https://bestbitee.netlify.app/" className="project__btn" target='_blank' rel='noreferrer'> View Details</a>
 
                         </div>
 
@@ -75,7 +75,7 @@ function Project() {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Paady</h5>
                             <h4 className="project__text"> An Admin Dashboard Website</h4>
-                            <a href="https://paady.netlify.app/" className="project__btn"> View Details</a>
+                            <a href="https://paady.netlify.app/" className="project__btn" target='_blank' rel='noreferrer'> View Details</a>
 
                         </div>
 

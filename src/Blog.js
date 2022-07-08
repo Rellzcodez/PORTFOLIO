@@ -33,7 +33,7 @@ function Blog() {
                   {" "}
                   Getting updated about things happening
                 </h4>
-                <a href="Https://sammyloaded.com" className="blog project__btn btn">
+                <a href="Https://sammyloaded.com" target='_blank' rel='noreferrer'   className="blog project__btn btn">
                   {" "}
                   Read More
                 </a>
@@ -55,7 +55,7 @@ function Blog() {
                   {" "}
                   Getting updated about things happening
                 </h4>
-                <a href="https://www.instagram.com/rellacruz/" className="blog project__btn btn">
+                <a href="https://www.instagram.com/rellacruz/" target='_blank' rel="noreferrer" className="blog project__btn btn">
                   {" "}
                   Read More
                 </a>
@@ -77,7 +77,7 @@ function Blog() {
                   {" "}
                   Getting updated about things happening
                 </h4>
-                <a href="https://www.linkedin.com/in/odunayo-adeyemi-96066b224/" className="blog project__btn btn">
+                <a href="https://www.linkedin.com/in/odunayo-adeyemi-96066b224/" target='_blank' rel='noreferrer' className="blog project__btn btn">
                   {" "}
                   Read More
                 </a>

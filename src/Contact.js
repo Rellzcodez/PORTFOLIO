@@ -13,12 +13,12 @@ function Contact() {
                         <p className='hire__text white'><strong>08105612052</strong> or email <strong>adeyemiodunayo@gmail.com</strong></p>
                     </div>
                     <div className='input__box'>
-                        <input type='text' className='contact name' placeholder='Your name *' />
-                        <input type='text' className='contact email' placeholder='Your Email *' />
-                        <input type='text' className='contact subject' placeholder='Write a Subject' />
-                        <textarea name='message' id='message' placeholder='Write Your Message'></textarea>
+                        <input type='text' className='contact name' placeholder='Your name *' required='required' />
+                        <input type='text' className='contact email' placeholder='Your Email *' required='required' />
+                        <input type='text' className='contact subject' placeholder='Write a Subject'required='required' />
+                        <textarea name='message' id='message' placeholder='Write Your Message' required='required' ></textarea>
                        <a href='odunayoadeyemi21@gmail.com'>
-                        <button className='btn contact pointer' type='submit'> Submit</button>
+                        <button className='btn contact pointer' type='submit' formAction='' formTarget='_blank' formMethod='post '> Submit</button>
                         </a>
                     </div>
                 </div>
